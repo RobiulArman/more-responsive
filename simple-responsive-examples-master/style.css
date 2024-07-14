@@ -6,7 +6,10 @@
 }
 
 
-
+.main
+{
+    height: 300px;
+}
 .sidebar,.advertise
 {
     height: 300px;
